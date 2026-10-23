@@ -7,7 +7,7 @@ Logika CRUD hanya ditulis sekali di class induk. Dua class turunan, satu berbasi
 ## Struktur Proyek
 
 ```
-Praktikum-3-PBO/
+Praktikum-PBO/
 └── src/
     ├── induk/
     │   └── Mahasiswa.java       
