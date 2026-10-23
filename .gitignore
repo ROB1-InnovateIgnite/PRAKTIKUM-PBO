@@ -1,0 +1,19 @@
+# Hasil kompilasi
+*.class
+out/
+bin/
+build/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/private/
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
